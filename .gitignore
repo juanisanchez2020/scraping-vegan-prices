@@ -1,0 +1,38 @@
+# Dependencias
+/node_modules
+
+# Archivos de log
+logs
+*.log
+
+# Directorio build generado por bundlers
+/build
+
+# Archivos de configuración locales
+.env
+
+# Dependencias específicas del editor
+.vscode
+.idea
+
+# Archivos temporales de compilación
+*.out
+
+# Archivos de caché
+.cache
+
+# Archivos de respaldo
+*.bak
+*.backup
+
+# Archivos de configuración de usuario de Visual Studio Code
+.vscode/
+
+# Archivos de registro de errores de eslint
+.eslintcache
+
+# Ignorar archivos de compilación TypeScript
+*.tsbuildinfo
+
+# Ignorar archivos de compilación de TypeScript
+dist/
